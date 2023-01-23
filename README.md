@@ -35,6 +35,9 @@ I am a Full-Stack Developer from Bangkok.
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
+### 🔥 &nbsp; My Stats :
+[![ZieSorX's GitHub stats](https://github-readme-stats.vercel.app/api?username=pittpt&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/pittpt?tab=repositories) &nbsp; &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pittpt&layout=compact&theme=vision-friendly-dark)](https://github.com/pittpt?tab=repositories)
 
 
 <!--
