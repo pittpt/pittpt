@@ -1,9 +1,16 @@
-### Hello! Glad to see you here! &nbsp; <img src="https://media.giphy.com/media/EKrFksrzxQxlb5ahiq/giphy.gif" title="Hello" alt="Hello" width="20" height="20" className="inline"/>
+### Hello, I'm Pitt. Glad to see you here! &nbsp; <img src="https://media.giphy.com/media/EKrFksrzxQxlb5ahiq/giphy.gif" title="Hello" alt="Hello" width="25" height="25"/> 
+---
+### :man_technologist: &nbsp;About Pitt :
+
+I am a Full-Stack Developer from Bangkok.
+
+- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🎬 A youtuber that loves to create meaningful and fun contents &nbsp; <a href="https://www.youtube.com/channel/UC_ByBYAmwyKI6_NMLe4BhvQ"><img src="https://img.shields.io/badge/PittPt-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube" alt="Pittpt Channel" width="75" height="25"/></a>
+- ⚡ I also have a passion for data science and data analytics.
+- 🎭 If you can't find me in front of the computer, I will be at basketball courts, golf courses, or the modelling studio 🕺.
+- 📫 Reach me here: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Pitt-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pitt-pongpittayapa)
 
 
-<p align="start">
-<a href="https://www.linkedin.com/in/pitt-pongpittayapa"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
 
 
 ### 🛠 &nbsp;Languages and Tools I use :
