@@ -1,4 +1,6 @@
-### Hello! Glad to see you here!
+### Hello! Glad to see you here! &nbsp; <img src="https://media.giphy.com/media/EKrFksrzxQxlb5ahiq/giphy.gif" title="Hello" alt="Hello" width="20" height="20" className="inline"/>
+
+
 <p align="start">
 <a href="https://www.linkedin.com/in/pitt-pongpittayapa"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
